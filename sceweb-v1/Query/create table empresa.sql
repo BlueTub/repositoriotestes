@@ -1,3 +1,6 @@
+create database sceweb
+use sceweb
+
 CREATE TABLE `sceweb`.`empresa` (
   `cnpj` VARCHAR(45) NOT NULL COMMENT '',
   `nomeDaEmpresa` VARCHAR(45) NOT NULL COMMENT '',
